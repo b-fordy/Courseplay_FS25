@@ -18,6 +18,7 @@ if you see it anywhere else, it's a scam.
 German Tutorial by Mario Hirschfeld: https://www.youtube.com/playlist?list=PL-UvOFIL55_jXAy6UkVJuLOD5DWKLuzIm
 
 (Anyone know a good english one?)
+Here you go: https://www.youtube.com/watch?v=BBShbhO53tg
 
 ## Developer version
 
